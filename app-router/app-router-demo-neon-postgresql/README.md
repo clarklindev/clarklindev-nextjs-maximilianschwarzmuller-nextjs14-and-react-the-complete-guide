@@ -437,4 +437,7 @@ const MyComponent = () => {
 };
 ```
 
-## 06-deep-dive-mutating-data
+### NOTE:
+- changed over to neon() databases - postgresql in the cloud
+- create a `.env` file and use `.env.template` as guidance for the variables and content to put
+
